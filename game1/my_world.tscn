@@ -8,5 +8,4 @@
 script = ExtResource("2_cery3")
 
 [node name="Sprite2D" parent="." index="0" unique_id=1597890546]
-
 texture = ExtResource("3_cery3")
